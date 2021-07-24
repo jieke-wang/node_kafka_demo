@@ -1,0 +1,16 @@
+{
+  "name": "node_kafka_demo",
+  "version": "1.0.0",
+  "description": "node_kafka_demo",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-init": "^1.1.2",
+    "kafkajs": "^1.15.0",
+    "uuid": "^8.3.2"
+  }
+}
